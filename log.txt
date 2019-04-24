@@ -1,0 +1,88 @@
+ Id usuario:1 Data: 2016-06-10T03:39:46.134Z Nome: Sergio acessou o sistema 
+
+ Id usuario: 1  Data: 2016-06-10T03:40:04.013Z Nome: Sergio saiu do sistema  
+
+ Id usuario:1 Data: 2016-06-10T04:02:16.360Z Nome: Sergio acessou o sistema 
+
+ Id usuario: 1  Data: 2016-06-10T04:02:51.379Z Nome: Sergio saiu do sistema  
+
+ Id usuario:1 Data: 2016-06-10T04:04:11.580Z Nome: Sergio acessou o sistema 
+
+ Id usuario: 1  Data: 2016-06-10T04:04:24.649Z Nome: Sergio saiu do sistema  
+
+ Id usuario:1 Data: 2016-06-10T04:07:29.959Z Nome: Sergio acessou o sistema 
+
+ Id usuario: 1  Data: 2016-06-10T04:07:44.192Z Nome: Sergio saiu do sistema  
+
+ Id usuario:1 Data: 2016-06-10T04:08:53.339Z Nome: Sergio acessou o sistema 
+
+ Id usuario:1 Data: 2016-06-10T04:10:23.654Z Nome: Sergio acessou o sistema 
+
+ Id usuario: 1  Data: 2016-06-10T04:10:44.248Z Nome: Sergio saiu do sistema  
+
+ Id usuario:1 Data: 2016-06-10T04:21:30.812Z Nome: Sergio acessou o sistema 
+
+ Id usuario:1 Data: 2016-06-10T04:23:16.050Z Nome: Sergio acessou o sistema 
+
+ Id usuario:1 Data: 2016-06-10T04:24:43.633Z Nome: Sergio acessou o sistema 
+
+ Id usuario:1 Data: 2016-06-10T04:25:43.698Z Nome: Sergio acessou o sistema 
+
+ Id usuario:1 Data: 2016-06-10T04:26:51.525Z Nome: Sergio acessou o sistema 
+
+ Id usuario:1 Data: 2016-06-10T04:28:00.945Z Nome: Sergio acessou o sistema 
+
+ Id usuario:1 Data: 2016-06-10T04:29:07.370Z Nome: Sergio acessou o sistema 
+
+ Id usuario:1 Data: 2016-06-10T04:29:38.433Z Nome: Sergio acessou o sistema 
+
+ Id usuario:1 Data: 2016-06-10T04:30:42.728Z Nome: Sergio acessou o sistema 
+
+ Id usuario:1 Data: 2016-06-10T04:31:33.288Z Nome: Sergio acessou o sistema 
+
+ Id usuario:1 Data: 2016-06-10T04:32:06.828Z Nome: Sergio acessou o sistema 
+
+ Id usuario:1 Data: 2016-06-10T04:35:28.399Z Nome: Sergio acessou o sistema 
+
+ Id usuario:1 Data: 2016-06-10T04:37:12.112Z Nome: Sergio acessou o sistema 
+
+ Id usuario: 1  Data: 2016-06-10T04:37:22.927Z Nome: Sergio saiu do sistema  
+
+ Id usuario:1 Data: 2016-06-10T04:37:50.817Z Nome: Sergio acessou o sistema 
+
+ Id usuario:1 Data: 2016-06-10T04:39:57.647Z Nome: Sergio acessou o sistema 
+
+ Id usuario:1 Data: 2016-06-10T04:41:48.284Z Nome: Sergio acessou o sistema 
+
+ Id usuario: 1  Data: 2016-06-10T04:41:53.663Z Nome: Sergio saiu do sistema  
+
+ Id usuario:1 Data: 2016-06-10T04:46:18.942Z Nome: Sergio acessou o sistema 
+
+ Id usuario: 1  Data: 2016-06-10T04:46:47.022Z Nome: Sergio saiu do sistema  
+
+ Id usuario:1 Data: 2016-06-10T04:49:45.501Z Nome: Sergio acessou o sistema 
+
+ Id usuario: 1  Data: 2016-06-10T04:50:05.884Z Nome: Sergio saiu do sistema  
+
+ Id usuario:1 Data: 2016-06-10T04:51:12.048Z Nome: Sergio acessou o sistema 
+
+ Id usuario: 1  Data: 2016-06-10T04:51:28.261Z Nome: Sergio saiu do sistema  
+
+ Id usuario:1 Data: 2016-06-10T04:52:58.514Z Nome: Sergio acessou o sistema 
+
+ Id usuario: 1  Data: 2016-06-10T04:53:37.696Z Nome: Sergio saiu do sistema  
+
+ Id usuario:4 Data: 2016-06-10T16:36:28.011Z Nome: sergio9 acessou o sistema 
+
+ Id usuario: 4  Data: 2016-06-10T16:37:14.427Z Nome: sergio9 saiu do sistema  
+
+ Id usuario:4 Data: 2016-06-10T17:07:34.950Z Nome: sergio9 acessou o sistema 
+
+ Id usuario: 4  Data: 2016-06-10T17:08:06.670Z Nome: sergio9 saiu do sistema  
+
+ Id usuario:5 Data: 2016-06-15T18:20:52.075Z Nome: fernando lopes sei la acessou o sistema 
+
+ Id usuario: 5  Data: 2016-06-15T18:31:57.838Z Nome: fernando lopes sei la saiu do sistema  
+
+ Id usuario:5 Data: 2016-06-15T18:32:19.879Z Nome: fernando lopes sei la acessou o sistema 
+
